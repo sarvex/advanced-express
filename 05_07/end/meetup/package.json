@@ -11,11 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "apicache": "^1.2.3",
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "bunyan": "^1.8.12",
     "compression": "^1.7.3",
-    "connect-mongo": "^2.0.3",
+    "connect-mongo": "^5.1.0",
     "cookie-parser": "^1.4.3",
     "dotenv": "^6.1.0",
     "email-validator": "^2.0.4",
@@ -26,10 +26,10 @@
     "mongodb": "^3.1.10",
     "mongoose": "^5.3.14",
     "multer": "^1.4.1",
-    "passport": "^0.4.0",
+    "passport": "^0.6.0",
     "passport-local": "^1.0.0",
-    "pug": "^2.0.3",
-    "sharp": "^0.21.0",
+    "pug": "^3.0.3",
+    "sharp": "^0.32.6",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
@@ -39,6 +39,6 @@
     "eslint": "^5.9.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
-    "mocha": "^5.2.0"
+    "mocha": "^10.4.0"
   }
 }
