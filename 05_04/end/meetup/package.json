@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "apicache": "^1.2.3",
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^6.0.0",
     "body-parser": "^1.18.3",
     "bunyan": "^1.8.12",
     "compression": "^1.7.3",
@@ -28,7 +28,7 @@
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
     "pug": "^2.0.3",
-    "sharp": "^0.21.0",
+    "sharp": "^0.34.5",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
@@ -38,6 +38,6 @@
     "eslint": "^5.9.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
-    "mocha": "^5.2.0"
+    "mocha": "^11.7.5"
   }
 }
